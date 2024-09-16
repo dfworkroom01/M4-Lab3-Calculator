@@ -8,7 +8,7 @@ body {
     background: linear-gradient(to right, #1d1c71, #84cdf7, #f5f3f3);
     color: #333;
   }
-  
+  /*Calculator CSS*/
   #calculator {
     width: auto;
     max-width: 400px;
